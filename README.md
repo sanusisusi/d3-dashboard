@@ -1,11 +1,13 @@
 # Sales Dashboard
 Creation of a sales dashboard using React and D3. The state management is handled with the react hooks API.
 
+## live preview
+sanusisusi.github.io/d3-dashboard
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 ### `npm install`

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/d3-dashboard/static/js/main.d6fe5a9c.chunk.js",
+    "main.js.map": "/d3-dashboard/static/js/main.d6fe5a9c.chunk.js.map",
+    "runtime~main.js": "/d3-dashboard/static/js/runtime~main.14060033.js",
+    "runtime~main.js.map": "/d3-dashboard/static/js/runtime~main.14060033.js.map",
+    "static/js/2.c0ddc2a4.chunk.js": "/d3-dashboard/static/js/2.c0ddc2a4.chunk.js",
+    "static/js/2.c0ddc2a4.chunk.js.map": "/d3-dashboard/static/js/2.c0ddc2a4.chunk.js.map",
+    "index.html": "/d3-dashboard/index.html",
+    "precache-manifest.bae61b210d55fd397dea08e01f1b01bc.js": "/d3-dashboard/precache-manifest.bae61b210d55fd397dea08e01f1b01bc.js",
+    "service-worker.js": "/d3-dashboard/service-worker.js"
+  }
+}

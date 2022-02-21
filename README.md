@@ -4,6 +4,8 @@ Creation of a sales dashboard using React and D3. The state management is handle
 ## live preview
 sanusisusi.github.io/d3-dashboard
 
+## Screenshot/Preview
+  ![d3-dashboard preview](https://github.com/sanusisusi/d3-dashboard/blob/main/d3-dashboard%20preview.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
